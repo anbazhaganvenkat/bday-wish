@@ -1,4 +1,4 @@
-<h1>Happy Birthday</h1>
+<h1>Happy Birthday Vinoth Kumar </h1>
 <canvas id="birthday"></canvas>
 <style>
 body {
